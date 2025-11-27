@@ -1,0 +1,187 @@
+feature,coef
+bias,5.115241355752423e+22
+lat,-5.129007091835614e+20
+lon,7.411688310345205e+20
+capacity,-3.1512532752076493e+18
+empty_slots,4.176702062294428e+16
+temp_c,-8.800409687193484e+31
+temp_miraflores,8.800409687193492e+31
+in_miraflores,9.595586035153658e+19
+hour,-8805410902724105.0
+weekday,-3.016310868049807e+19
+station_id_008a35afc6b4060be57b48bf90bec44c,-4.5987285012974476e+20
+station_id_03367da30caea302b11c838d8b98df55,4.143673805277684e+21
+station_id_06dd87a8b87232577015b1c9a4ba08ed,-6.208385134630717e+21
+station_id_0927eccbf04e2aadd179595c55c52bbe,-5.452321632961197e+20
+station_id_0ac132eb1a147b7b23a753185cbebd1d,8.827708169570912e+20
+station_id_11c5d99df877943158c7e7c693242e26,4.5084960678773003e+21
+station_id_1ff7b00c8a2af2eeb129df70939eb20b,4.962886549728372e+21
+station_id_263e9a1c4f245c4070f8c85b88d0f10d,4.735951036460895e+22
+station_id_3ab2451c995f47035d2b14590753236a,1.0108969718201224e+21
+station_id_3c8e489aaccbcbbe87f59457fe1901d1,2.7299200498971254e+21
+station_id_409c57fe8f27975938e2e0248a4d45bc,1.29913050985888e+21
+station_id_4158a25459abe328f8ab8c32c0db7b6b,-2.4026665164367226e+21
+station_id_438d63a7c5cb69db70e9cd6665120d61,-9.462855699658726e+21
+station_id_439e3845a612d6b0a61506b0ebe52a91,6.035998111518924e+20
+station_id_55c0bf37006a2c06875866c6e9e13156,3.14955409020572e+20
+station_id_57ded81c72e11e6fc644698ee200d750,-1.5172899449433303e+21
+station_id_5b7914e3a19e2d392967c8ff9a1eeb5e,-2.7659433925063255e+21
+station_id_6369e20f974a82f599ac39793a9ceeef,2.686121099111696e+23
+station_id_6483875f7b7770a47a79c18bb17bc54e,-2.6952603772477967e+21
+station_id_66ba95532fd0758049c624f5a08d8e4d,-4.867838916798665e+21
+station_id_6769076dbc301448af071082f5822f8c,2.5819668708789327e+21
+station_id_696787ac674aad03dc56a790f1f9e6ed,1.2645103282249167e+21
+station_id_6b34990c05dc96c8251a0a369cb69401,-6.792648858194491e+20
+station_id_6cc6c7fa220969e769d6ade973d20fc4,-3.039186520474906e+21
+station_id_717d52e93633ac970c25753f96d12d57,1.298803568360599e+21
+station_id_73f1bdfa0b91640c04cf7d4d17ec9bd7,-5.100279503065392e+21
+station_id_7445571ff483b34f2e41c478e6d83588,4.889997052310781e+21
+station_id_757937ea9bcfaefaef0a20a336c024cf,-5.175123869186627e+21
+station_id_758f33f3320ac4a7aca286cf7e57bef4,1.0149310952349101e+21
+station_id_8301c7ecad3d99b5e04f03b87ffb8af4,5.603723291833502e+21
+station_id_876923a9839232b31d01c19a6af87e6f,-1.249361428160426e+21
+station_id_87d95a956d801c0953b6169325661979,3.507226531676098e+21
+station_id_88a9e07a36d29cb5801f82cedd2534b4,-4.144724571185781e+19
+station_id_92f82729a1aa0e98e16bac393ddaf91b,6.275267975783649e+20
+station_id_9652d392478ec6d31cb23d0a2d22aa30,-2.4241768076079493e+21
+station_id_9b481ef2d05f69c2b56ac04ac189cc8d,3.608344379251933e+21
+station_id_a08754c736d95b13253dc6e7ab0a84bf,3.7606531315287576e+20
+station_id_a1c5bf0bc5ddcdb928871fbb97e89ada,-4.5598684086016923e+21
+station_id_aea4af9a353483a0761b042ca8758636,-4.998998692638181e+21
+station_id_aeddcf808d428c290c0d523999b4a298,-1.9643524399901232e+20
+station_id_b01138adb0102e1f6862bb8ba54b9721,-7.903325491030236e+22
+station_id_b167c074941be5e72c84b015140b95ae,-2.4588155769947297e+21
+station_id_bb40d8da8fed6afda3b2ff8f0c59e48d,9.027953343288826e+21
+station_id_c00d815ca6322144c5510d9f9e7121da,2.152045170072355e+34
+station_id_c07eaacbff9bf0e1bc77ee5fd3b14bb9,2.4075799367239344e+22
+station_id_c87a72c82867fcd9f59503de195895b3,-1.1206014960103956e+21
+station_id_dc710115aa6014501e5b457a0b14ef25,9.503001751910507e+23
+station_id_e14ff39be43b5e75c56b2be2606d3a3e,-1.1840744969506793e+20
+station_id_e8c7678be73f7c2febaadc3366c822ac,-1.095439116900534e+20
+station_id_eb0b102f9e9bb933d2194064e70496ad,2.6887122172641196e+21
+station_id_edd8ff1ca69c234b86958ec42e3dd651,1.4096013214304811e+20
+station_id_eff5bc44fad7421819820f56aa6ded68,3.347969019533364e+23
+station_name_18001 Ca. Oscar R. Benavides - Ca. Schell (Parque Kennedy),9.209886512067672e+21
+station_name_18002 Av. Larco Cdra. 2 (Parque Kennedy),-1.5517368817849367e+21
+station_name_18002 Ca. Oscar R. Benavides - Ov. Miraflores (Parque Kennedy),-1.5517368817849357e+21
+station_name_18003 Av.Ricardo Palma - Av. La Paz,2.7991020161886186e+21
+station_name_18004 Av. Ernesto Diez Canseco - Av. Paseo de la República,-8.800240127838536e+20
+station_name_18005 Av. Ricardo Palma - Av. Roca y Boloña ( Pq. Las Tradiciones),-3.762834161144872e+21
+station_name_18006 Av. Rep. de Panamá - Av. Gran Mcal. Ramón Castilla,-5.707466084973511e+19
+station_name_18007 Ca. Schell - Av. La Paz,4.613344792818505e+21
+station_name_18008 Ca.Lola Pardo - Ca. Mayor Arce de Oliva,2.2008127344321726e+21
+station_name_18009 Ca. Luis Schereiber Cdra. 2 (C.C. Aurora),-5.825037694418911e+21
+station_name_18010 Ca. Placencia - Av. Benavides,1.095039119921723e+21
+station_name_18011 Ca. GermánA.Goméz - Av.JoseR.Gastón,-2.152045170072522e+34
+station_name_18012 Ca. Ignacio La Puente - Av. Benavides,-3.3505040718017736e+23
+station_name_18013 Ca. Tejada - Av. 28 de Julio,-1.644256016529448e+21
+station_name_18014 Ca. Ramon Ribeyro - Av. Benavides,7.87887291979667e+22
+station_name_18015 Ca. Bolivar - Ca. Alcanfores,-9.505446992821699e+23
+station_name_18016 Ca. Manco Capac - Av. Larco,-2.9948063254434955e+21
+station_name_18017 Ca. Manco Capac - Av. La Paz,4.846169569089819e+21
+station_name_18018 Av. Nuñez de Balboa - Av. Reducto,-1.2692698337996044e+21
+station_name_18019 Boulevard Armendariz - Av. La Paz,-4.0719062638034695e+20
+station_name_18020 Mlcn. De la Reserva - Av. N. de Balboa (Parque Domodossola),-5.135458371550144e+21
+station_name_18021 Av. Armendariz -Av. Larco (Larcomar),-4.759163195498916e+22
+station_name_18022 Malecón de la Reserva - Malecón 28 de Julio,-4.762176111813024e+21
+station_name_18023 Ca.BellavistaCdra.5,-5.875191670100206e+21
+station_name_18024 Ov. Bolognesi - Ca. Madrid,5.938249650554759e+21
+station_name_18025 Malecón Cisneros - (Parque del Faro La Marina),-2.4329301493991533e+22
+station_name_18026 Malecón de la Marina - Parque Grau,-1.1321919957199926e+21
+station_name_18027 Ov. Julio Ramón Riveyro - Av. Pardo,1.925012006050911e+20
+station_name_18028 Av. Jorge Chávez - Av. Jose Pardo,4.922282621401822e+21
+station_name_18029 Ca. Gral. Recavarren - Av. José Pardo,-8.858016973258994e+20
+station_name_18030 Ca. Atahualpa Cdra.6 (Parque Bonilla),4.7365044027663e+21
+station_name_18031 Ca. Gonzales Prada - Av. Paseo de la República  (Parque Miranda),-6.363130137681794e+20
+station_name_18032 Ca. Gral. Suarez - Av .Angamos Oeste,-2.946718452672645e+21
+station_name_18033 Ca. Scipión Llona Cdra.3,-1.5254888693012376e+21
+station_name_18034 Ca. Tacna - Av. A. Aramburú,-5.222294469816226e+21
+station_name_18035 Ca. Santander - Av. Santa Cruz,8.491203947419869e+20
+station_name_18036 Ca. Carlos Tenaud - Av. Arequipa,2.434278021717747e+21
+station_name_18037 Av. Angamos Oeste - Parque Naciones Unidas,4.574526594183438e+20
+station_name_18038 Ca. Gral. Borgoño - Ca. Ayacucho,-1.2632802692422385e+21
+station_name_18039 Psje. Juana Alarco De Dammert - Ov. Gutierrez,-5.695905584004133e+20
+station_name_18040 Ca. Torre Tagle - Parque Piura,-2.855964276817732e+21
+station_name_18041 Ca. Gral. Varela - Av. Angamos Oeste,4.288398612158598e+21
+station_name_18042 Ca. Retiro - Av. Angamos Oeste,-1.4408396154809857e+20
+station_name_18043 Ca. Mariano Melgar - Ca. Gral. Mendiburu,2.1474760277811656e+21
+station_name_18044 Estadio Manuel Bonilla - Malecón de la Marina,7.921411357920034e+20
+station_name_18045 Malecón de la Marina - Av. Federico Villarreal,1.2716911944979443e+21
+station_name_18046 Malecón de la Marina - Skate Park,-4.034457792071897e+20
+station_name_18047 Malecón Cisneros - Ca. Trípoli,2.8082138938009938e+20
+station_name_18048 Av. Mariscal La Mar - Av. Santa Cruz,-9.294929705789569e+21
+station_name_18049 Ca. Ignacio Merino - Av. La Mar,-3.8753238329030596e+21
+station_name_18050 Ca. Gral. Borgoño - Parque Manuel Solari,-1.6192626091402992e+20
+station_name_27042 Av. P. Carriquiry - Av. Ricardo Angulo,-2.702686343037864e+23
+day_of_week_Friday,7.995906263314571e+19
+day_of_week_Monday,-4.068402371854289e+19
+day_of_week_Saturday,1.1011983422106781e+20
+day_of_week_Sunday,1.4028060580899004e+20
+day_of_week_Thursday,4.979829104522373e+19
+day_of_week_Tuesday,-1.0523252130620934e+19
+day_of_week_Wednesday,1.9637519457301352e+19
+periodo_dia_mañana,8.059371149499148e+19
+periodo_dia_noche,8.059371149499166e+19
+periodo_dia_tarde,8.059371149499179e+19
+clima_miraflores_Clima: pronóstico del tiempo,2.219266704705488e+19
+clima_miraflores___missing__,2.2192667047055557e+19
+in_miraflores_0.0,1.3751169592964948e+21
+in_miraflores_1.0,-1.2122184769314954e+20
+date_2025-10-01,1105564.0
+date_2025-10-02,185006.0
+date_2025-10-03,167206.0
+date_2025-10-04,21793.0
+date_2025-10-05,375238.10916508845
+date_2025-10-06,-157372.0
+date_2025-10-07,203216.0
+date_2025-10-08,398919.0
+date_2025-10-09,-165226.0
+date_2025-10-10,58112.0
+date_2025-10-11,174622.0
+date_2025-10-12,438401.932491335
+date_2025-10-13,61540.0
+date_2025-10-14,354194.0
+date_2025-10-15,189509.0
+date_2025-10-16,148574.0
+date_2025-10-17,133226.0
+date_2025-10-18,105987.0
+date_2025-10-19,421243.6529001652
+date_2025-10-20,262524.0
+date_2025-10-21,362978.0
+date_2025-10-22,177708.0
+date_2025-10-23,-132322.0
+date_2025-10-24,64080.0
+date_2025-10-25,87517.0
+date_2025-10-26,482932.07876628893
+date_2025-10-27,-67816.0
+date_2025-10-28,247366.0
+date_2025-10-29,75044.0
+date_2025-10-30,43330.0
+date_2025-10-31,244292.0
+date_2025-11-01,274833.0
+date_2025-11-02,43796.48043806466
+date_2025-11-03,-342004.0
+date_2025-11-04,194208.0
+date_2025-11-05,-133037.0
+date_2025-11-06,55932.0
+date_2025-11-07,139168.0
+date_2025-11-08,245125.0
+date_2025-11-09,278145.9535636411
+date_2025-11-10,62680.0
+date_2025-11-11,208026.0
+date_2025-11-12,44907.0
+date_2025-11-13,94210.0
+date_2025-11-14,132922.0
+date_2025-11-15,127738.0
+date_2025-11-16,252075.76201988093
+date_2025-11-17,195496.0
+date_2025-11-18,36714.0
+date_2025-11-19,3207.0
+date_2025-11-20,-22832.0
+date_2025-11-21,-37398.0
+date_2025-11-22,8453.0
+date_2025-11-23,3446.958535248644
+date_2025-11-24,66852.0
+date_2025-11-25,11604.0
+date_2025-11-26,9336.0
+date_2025-11-27,11860.0
